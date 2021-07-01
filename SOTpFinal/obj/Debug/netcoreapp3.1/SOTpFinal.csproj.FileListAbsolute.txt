@@ -1,0 +1,26 @@
+C:\Users\MI\Desktop\SOTpFinal\SOTpFinal\bin\Debug\netcoreapp3.1\SOTpFinal.exe
+C:\Users\MI\Desktop\SOTpFinal\SOTpFinal\bin\Debug\netcoreapp3.1\SOTpFinal.deps.json
+C:\Users\MI\Desktop\SOTpFinal\SOTpFinal\bin\Debug\netcoreapp3.1\SOTpFinal.runtimeconfig.json
+C:\Users\MI\Desktop\SOTpFinal\SOTpFinal\bin\Debug\netcoreapp3.1\SOTpFinal.runtimeconfig.dev.json
+C:\Users\MI\Desktop\SOTpFinal\SOTpFinal\bin\Debug\netcoreapp3.1\SOTpFinal.dll
+C:\Users\MI\Desktop\SOTpFinal\SOTpFinal\bin\Debug\netcoreapp3.1\SOTpFinal.pdb
+C:\Users\MI\Desktop\SOTpFinal\SOTpFinal\obj\Debug\netcoreapp3.1\SOTpFinal.csprojAssemblyReference.cache
+C:\Users\MI\Desktop\SOTpFinal\SOTpFinal\obj\Debug\netcoreapp3.1\SOTpFinal.AssemblyInfoInputs.cache
+C:\Users\MI\Desktop\SOTpFinal\SOTpFinal\obj\Debug\netcoreapp3.1\SOTpFinal.AssemblyInfo.cs
+C:\Users\MI\Desktop\SOTpFinal\SOTpFinal\obj\Debug\netcoreapp3.1\SOTpFinal.csproj.CoreCompileInputs.cache
+C:\Users\MI\Desktop\SOTpFinal\SOTpFinal\obj\Debug\netcoreapp3.1\SOTpFinal.dll
+C:\Users\MI\Desktop\SOTpFinal\SOTpFinal\obj\Debug\netcoreapp3.1\SOTpFinal.pdb
+C:\Users\MI\Desktop\SOTpFinal\SOTpFinal\obj\Debug\netcoreapp3.1\SOTpFinal.genruntimeconfig.cache
+C:\Users\Luis Perrotta\Downloads\SOTpFinal\SOTpFinal\bin\Debug\netcoreapp3.1\SOTpFinal.exe
+C:\Users\Luis Perrotta\Downloads\SOTpFinal\SOTpFinal\bin\Debug\netcoreapp3.1\SOTpFinal.deps.json
+C:\Users\Luis Perrotta\Downloads\SOTpFinal\SOTpFinal\bin\Debug\netcoreapp3.1\SOTpFinal.runtimeconfig.json
+C:\Users\Luis Perrotta\Downloads\SOTpFinal\SOTpFinal\bin\Debug\netcoreapp3.1\SOTpFinal.runtimeconfig.dev.json
+C:\Users\Luis Perrotta\Downloads\SOTpFinal\SOTpFinal\bin\Debug\netcoreapp3.1\SOTpFinal.dll
+C:\Users\Luis Perrotta\Downloads\SOTpFinal\SOTpFinal\bin\Debug\netcoreapp3.1\SOTpFinal.pdb
+C:\Users\Luis Perrotta\Downloads\SOTpFinal\SOTpFinal\obj\Debug\netcoreapp3.1\SOTpFinal.csprojAssemblyReference.cache
+C:\Users\Luis Perrotta\Downloads\SOTpFinal\SOTpFinal\obj\Debug\netcoreapp3.1\SOTpFinal.AssemblyInfoInputs.cache
+C:\Users\Luis Perrotta\Downloads\SOTpFinal\SOTpFinal\obj\Debug\netcoreapp3.1\SOTpFinal.AssemblyInfo.cs
+C:\Users\Luis Perrotta\Downloads\SOTpFinal\SOTpFinal\obj\Debug\netcoreapp3.1\SOTpFinal.csproj.CoreCompileInputs.cache
+C:\Users\Luis Perrotta\Downloads\SOTpFinal\SOTpFinal\obj\Debug\netcoreapp3.1\SOTpFinal.dll
+C:\Users\Luis Perrotta\Downloads\SOTpFinal\SOTpFinal\obj\Debug\netcoreapp3.1\SOTpFinal.pdb
+C:\Users\Luis Perrotta\Downloads\SOTpFinal\SOTpFinal\obj\Debug\netcoreapp3.1\SOTpFinal.genruntimeconfig.cache
